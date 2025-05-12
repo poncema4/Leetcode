@@ -7,3 +7,4 @@ All of the leetcode solutions fall in the Python programming language
 - (2) Add Two Numbers
 - (9) Palindrome Num
 - (202) Happy Number
+- (75) Sort Colors
